@@ -1,1 +1,0 @@
-在电脑上双击start.html即可运行游戏，无需联网，推荐chrome或EDGE浏览器。
